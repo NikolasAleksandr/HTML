@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Linking to Other Pages</title>
+    <style>
+        body {
+            font-family: 'Times New Roman';
+            background-color: #eee44577;
+            text-align: center;
+            font-size: 40px;
+        }
+        
+        ul {
+            list-style: none;
+        }
+        
+        ul li a {
+            color: blueviolet;
+ 
+        }
+    </style>
+    
+</head>
+<body>
+    <h1>Erinevad teemad</h1>
+    <nav>
+        <ul>
+            <li><a href="Koerad">Koerad</a></li>
+            <li><a href="Riigid">Riigid</a></li>
+            <li><a href="Toit">Toit</a></li>
+        </ul>
+    </nav>
+    <img src="cutest-dog-breeds-jpg (1).jpg" alt style= "width: 400px;">
+</body>
+</html>
